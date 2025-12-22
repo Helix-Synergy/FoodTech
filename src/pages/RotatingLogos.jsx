@@ -26,7 +26,7 @@ import Cold from "../assets/tracks/cold plasma preservation.jpeg"
 export const tracks = [
   {
     image: FoodProcessing,
-    title: "Paradigms of Regenerative Agriculture",
+    title: "Food Processing Technologies (HPP, PEF, Ultrasound, Ohmic)",
     description: (
       <>
         Explore transformative paradigms in regenerative agriculture that restore soil health, enhance biodiversity, and strengthen climate resilience. This track examines innovative practices, policy frameworks, and technologies empowering farmers to regenerate ecosystems, boost productivity, and build sustainable food systems while delivering economic, environmental, and social value for future-ready{" "}
@@ -45,7 +45,7 @@ export const tracks = [
 
   {
     image: FoodEngineering,
-    title: "Carbon, Microbes & Nutrient Cycling",
+    title: "Food Engineering",
     description: (
       <>
         This track explores the critical interactions between{" "}
@@ -63,7 +63,7 @@ export const tracks = [
 
   {
     image: Thermal,
-    title: "Agroecology",
+    title: "Thermal & Non-Thermal Preservation Methods",
     description: (
       <>
       This track delves intoThis track delves into{" "}
@@ -80,7 +80,7 @@ export const tracks = [
 
   {
     image: FoodBio,
-    title: "Biodiversity",
+    title: "Food Biotechnology - Enzymes & Fermentation",
     description: (
       <>
         {" "}
@@ -98,7 +98,7 @@ export const tracks = [
 
   {
     image: Probiotics ,
-    title: "Precision Agriculture for Regenerative Farming",
+    title: "Probiotics & Functional Foods Innovation",
     description: (
       <>
      This track focuses on{" "}
@@ -116,7 +116,7 @@ export const tracks = [
 
   {
     image: Alternative,
-    title: "AI, Remote Sensing & GIS for Soil, Crops",
+    title: "Alternative Proteins: Plant-Based, Cultured & Fermentation-Derived",
     description: (
       <>
      Examines advanced tools for monitoring soil health and crop performance. It highlights real-time insights, predictive analytics, and spatial intelligence that enable precision decisions, optimize inputs, enhance resilience, and accelerate regenerative outcomes across diverse agricultural landscapes.
@@ -134,7 +134,7 @@ export const tracks = [
 
   {
     image: Nutra,
-    title: "IoT & Sensor Networks for Regenerative Farming",
+    title: "Nutraceuticals & Bioactive Compounds",
     description: (
       <>
 This track explores how IoT devices and advanced sensor networks enable regenerative farming. Learn how real-time soil, water, crop, and climate data drive smarter decisions, improve soil health, optimize resources, reduce inputs, and support resilient, sustainable agricultural systems at scale.{" "}
@@ -151,7 +151,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image:  FoodSafety,
-    title: "Robotics & Automation for Low-Impact Farming",
+    title: "Food Safety Management",
     description: (
       <>
        Examines how{" "}
@@ -169,7 +169,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image: FoodQuality,
-    title: "Carbon Sequestration",
+    title: "Food Quality Assurance & Shelf-Life Modeling",
     description: (
       <>
        This track focuses on{" "}
@@ -187,7 +187,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image: Standards,
-    title: "MRV Tools & Climate-Smart Agriculture",
+    title: "Standards & Global Regulatory Compliance (FSSAI, FDA, EFSA)",
     description: (
       <>
       This track highlights MRV tools for climate-smart agriculture. Explore methods to measure, report, and verify emissions and outcomes using digital platforms, remote sensing, and data analytics—enabling transparency, credible carbon accounting, informed decision-making, and scalable adoption of sustainable farming practices.{" "}
@@ -205,7 +205,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image: FoodFraud,
-    title: "Biochar, Composting & Biological Amendments",
+    title: "Food Fraud Detection & Analytical Technologies",
     description: (
       <>
         {" "}
@@ -223,7 +223,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image: FoodProcessing1,
-    title: "Micro-Catchments, Drip Optimisations & Hydrology Mapping",
+    title: "Food Processing & Green Technologies",
     description: (
       <>
    This track focuses on {" "}
@@ -241,7 +241,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image: FoodWaste,
-    title: "Plant–Microbiome Engineering",
+    title: "Food Waste Reduction & Circular Food Systems",
     description: (
       <>
   Explores{" "}
@@ -259,7 +259,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image: Smart,
-    title: "Biofertilisers, Biostimulants & Mycorrhizal Innovations",
+    title: "Smart, Biodegradable & Edible Packaging",
     description: (
       <>
     This highlights {" "}
@@ -277,7 +277,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image: climate,
-    title: "Regenerative Pest Management",
+    title: "Climate-Smart Food Systems & Life Cycle Assessment (LCA)",
     description: (
       <>
         {" "}
@@ -296,7 +296,7 @@ This track explores how IoT devices and advanced sensor networks enable regenera
 
   {
     image: iot1,
-    title: "Regenerative Horticulture, Agroforestry & Polyculture Systems",
+    title: "IoT, Automation & Smart Manufacturing",
     description: (
       <>
 Examines {" "}
@@ -314,7 +314,7 @@ Examines {" "}
 
   {
     image: DataAnalystic,
-    title: "Livestock Integration, Holistic Grazing & Manure Circularity",
+    title: "Data Analytics for Food Innovation",
     description: (
       <>
       {" "}
@@ -333,7 +333,7 @@ Examines {" "}
 
   {
     image: DigitalTwins,
-    title: "Waste-to-Value Innovations in Farms",
+    title: "Digital Twins, Predictive Modeling in Food Processing",
     description: (
       <>
      {" "}
@@ -352,7 +352,7 @@ This track highlights waste-to-value innovations in farming. Explore technologie
   
   {
     image: Precison1,
-    title: "Regenerative Supply Chains & Market Incentives",
+    title: "Precision Fermentation",
     description: (
       <>
  Explores    {" "}
@@ -368,7 +368,7 @@ This track highlights waste-to-value innovations in farming. Explore technologie
   },
   {
     image: Cold,
-    title: "Certification Frameworks for Regenerative Farming",
+    title: "Cold Plasma Preservation",
     description: (
       <>
       This track focuses on {" "}

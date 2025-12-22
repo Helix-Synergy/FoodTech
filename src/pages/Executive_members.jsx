@@ -29,7 +29,7 @@ const Executive_members = () => {
           Meet Our Distinguished Panel Members
         </h2>
         <p className="w-full md:w-2/3 text-sm md:text-base text-slate-600">
- Leading innovators, researchers, and industry experts from around the world sharing knowledge and driving the future of regenerative agriculture and agritech at FOODTECH-2026.
+Leading innovators, researchers, and industry experts from around the world sharing knowledge and driving the future of food technology at FOODTECH-2026.
         </p>
       </div>
 

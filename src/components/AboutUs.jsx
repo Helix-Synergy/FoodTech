@@ -30,19 +30,20 @@ loading="lazy"
       <div className="flex flex-col w-full md:w-2/3">
         <h1 className="text-xl md:text-3xl font-bold my-2">
           <span className="text-one">Advancing Global Leadership  </span>{" "}
-       in Regenerative Agritech
+       in Future FoodTech
         </h1>
         <p className="text-base my-2">
-         Welcome to the premier global platform for  <Link to="/foodtech-orators"  className="
+        Welcome to the premier global platform for the  <Link to="/foodtech-orators"  className="
              hover:text-accent hover:decoration-accent
-             transition-colors duration-300">Regenerative AgriTech Forum </Link> Our international summits convene leading experts and decision-makers driving advancements in regenerative agriculture, agri-biotechnology, soil health, climate-resilient farming, and sustainable food systems.. The Regenerative Agritech Forum brings together researchers, agronomists, agri-tech innovators, policymakers, industry leaders, and sustainability professionals to address critical challenges and opportunities shaping the future of global agriculture.{" "}
+             transition-colors duration-300">Future FoodTech Conference.</Link> Our international summits convene leading experts, innovators, and decision-makers shaping the next generation of food systems.
+The Future FoodTech Conference brings together pioneers in food technology, alternative proteins, precision fermentation, cellular agriculture, sustainable nutrition, food processing, packaging innovation, and digital food systems. This global forum addresses the critical challenges and transformative opportunities redefining how the world produces, processes, distributes, and consumes food.{" "}
           <Link
             className="text-accent font-bold"
             target="_blank"
             to="https://helixconferences.com/blog.php"
           ></Link>{" "}
         </p>
-<p>“Transforming Agriculture and Food Systems Through Regenerative Agritech Innovation”</p>
+<p>“Transforming Global Food Systems Through Future FoodTech Innovation”</p>
         <Link to="/about-foodtech-conclave" >
           <button className="flex bg-one text-white px-6 md:px-8 py-2 my-4 rounded-full text-sm md:text-base">
             Know More

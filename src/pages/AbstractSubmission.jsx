@@ -98,27 +98,28 @@ const AbstractSubmission = () => {
   };
 
 const presentationOptions = [
- "Microbial Ecology of Food Systems",
-  "Microbiome Sequencing & Metagenomics for Food Research",
-"Host–Microbe Interactions Influenced by Diet",
- "Metabolites, Enzymes & Nutrient Transformations",
-  "Microbial Dynamics in Food Safety",
-"Microbiome-Based Strategies for Food Spoilage Control",
- "Biopreservation-Microbes & Natural Antimicrobials",
- "Microbial Ecology of Food Systems - From Farm to Fork" ,
-  "Gut–Food Axis",
-  "Personalized Nutrition",
-  "Soil & Plant Microbiomes",
-  "Sustainable Agriculture & Food Production",
-  "Processing Technologies on Food Microbial Communities",
-  "Circular Bioeconomy & Waste Valorization",
-  "Foodborne Microbial Risks",
-  "Prebiotics, Synbiotics & Postbiotics",
-  "Fermented Foods - Health Benefits & Innovation",
-  "Ethical & Commercial Considerations in Microbiome",
-  "Microbiome Engineering",
-  "Quorum Sensing",
+  "Food Processing Technologies (HPP, PEF, Ultrasound, Ohmic)",
+  "Food Engineering",
+  "Thermal & Non-Thermal Preservation Methods",
+  "Food Biotechnology - Enzymes & Fermentation",
+  "Probiotics & Functional Foods Innovation",
+  "Alternative Proteins: Plant-Based, Cultured & Fermentation-Derived",
+  "Nutraceuticals & Bioactive Compounds",
+  "Food Safety Management",
+  "Food Quality Assurance & Shelf-Life Modeling",
+  "Standards & Global Regulatory Compliance (FSSAI, FDA, EFSA)",
+  "Food Fraud Detection & Analytical Technologies",
+  "Food Processing & Green Technologies",
+  "Plant–Microbiome Engineering",
+  "Smart, Biodegradable & Edible Packaging",
+  "Climate-Smart Food Systems & Life Cycle Assessment (LCA)",
+  "IoT, Automation & Smart Manufacturing",
+  "Data Analytics for Food Innovation",
+  "Digital Twins, Predictive Modeling in Food Processing",
+  "Precision Fermentation",
+  "Cold Plasma Preservation",
 ];
+
 
 
   return (

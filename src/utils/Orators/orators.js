@@ -1,42 +1,40 @@
 // Techmatics Images
-import Francesa from "../../assets/Orator Banners/Francesca.webp"
-import Christophe from "../../assets/Orator Banners/Christophe.png"
-import Van from "../../assets/Orator Banners/Douwe.png"
-import Alje from "../../assets/Orator Banners/Alejandro.jpg"
-import vladimirGChigrinov from "../../assets/Pannel Members/e4.jpg"
-import jiashengZhu from "../../assets/Pannel Members/e7.jpg"
-import penouo from "../../assets/Pannel Members/Paneuo.jpg"
+import Patimakorn from "../../assets/Orator Banners/Patimakorn.png"
+import Gregory from "../../assets/Orator Banners/Gregory.png"
+import Monica from "../../assets/Orator Banners/Monica.png"
+import Simen from "../../assets/Orator Banners/Simen.png"
+
   export const orators = [
     {
       id: "andreas-m-papas",
-      image: Francesa,
-      name: "Francesca Bottacini",
-      from: "Ireland",
-      about: "APC Microbiome Ireland",
+      image: Patimakorn,
+      name: "Patimakorn Klaiprasitti",
+      from: "Thailand",
+      about: "University of Khon Kaen",
       // link: "/techmatics-orators/siti-rahman"
     },
     {
       id: "maria-richards-brown",
-      image: Christophe,
-      name: "Christophe Lacroix",
-      from: "Switzerland",
-      about: "ETH Zurich",
+      image: Gregory,
+      name: "Gregory Cohen",
+      from: "France",
+      about: "University of Bordeaux INP",
       // link: "/techmatics-orators/abdullah-aydin",
     },
     {
       id: "rassa-pegahi",
-      image: Van,
-      name: "Douwe Van Sinderen",
-      from: "Ireland",
-      about: "University College Cork",
+      image: Monica,
+      name: " Monica Scordino",
+      from: "Italy",
+      about: "Italian Ministry of Agriculture",
       // link: "/techmatics-orators/janani-varun",
     },
     {
       id: "anna-w-sobanska",
-      image:Alje,
-      name: "Alejandro Reyes",
-      from: "Colombia",
-      about: "University of Los Andes",
+      image: Simen,
+      name: "Simeon Omale",
+      from: "Nigeria",
+      about: "University of Jos",
       // link: "/techmatics-orators/abdeen-omer",
     },
     // Second row

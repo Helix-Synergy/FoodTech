@@ -1,41 +1,41 @@
 
 // images
-import Paulo from "../../assets/Pannel Members/Paul-Cotter.webp";
-import Koji from "../../assets/Pannel Members/Koji.jpg";
-import Sarah from "../../assets/Pannel Members/Sarah.png";
-import Justin from "../../assets/Pannel Members/Justin.jpg";
+import Aline from "../../assets/Pannel Members/Aline .png";
+import Marko from "../../assets/Pannel Members/marko.png";
+import Bonginkosi from "../../assets/Pannel Members/Bon.png";
+import William from "../../assets/Pannel Members/willimas.png";
 
 export const panel_members_about = [
   {
     id: "Paul",
-    image: Paulo,
-    name: "Paul Cotter",
-    from: "Ireland",
-    about: "Teagasc Food Research Centre ",
+    image: Aline,
+    name: "Aline Theodoro Toci",
+    from: " Brazil",
+    about: " Federal University of Latin American Integration ",
     // link: "/executive-panel-members/velimir",
   },
   {
     id: "Koji Nomura ",
-    image: Koji,
-    name: "Koji Nomura" ,
-    from: "Japan",
-    about: " University of Tokyo ",
+    image: Marko,
+    name: "Marko Vinceković" ,
+    from: " Croatia",
+    about: " University of Zagreb Faculty of Agriculture ",
     // link: "/executive-panel-members/Raenu",
   },
   {
     id: "Rd",
-    image:Sarah,
-    name: "Sarah Lebeer",
-    from: "Belgium",
-    about: "University of Antwerp",
+    image:Bonginkosi,
+    name: " Bonginkosi E. Mthembu",
+    from: "South Africa",
+    about: "Mangosuthu University of Technology",
     // link: "/executive-panel-members/Rd",
   },
   {
     id: "Paulo",
-    image: Justin,
-    name: "Justin L. Sonnenburg",
-    from: "USA",
-    about: "Stanford University",
+    image: William,
+    name: "William Meng",
+    from: "Australia",
+    about: "Victorian Academy of Teaching",
     // link: "/executive-panel-members/Paulo",
   },
   // Second row
