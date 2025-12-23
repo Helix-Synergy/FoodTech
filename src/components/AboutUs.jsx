@@ -33,10 +33,14 @@ loading="lazy"
        in Future FoodTech
         </h1>
         <p className="text-base my-2">
-        Welcome to the premier global platform for the  <Link to="/foodtech-orators"  className="
+        Welcome to the premier global platform for the  
+        <Link to="https://helixconferences.com/buy-a-ticket"  className="
              hover:text-accent hover:decoration-accent
-             transition-colors duration-300">Future FoodTech Conference.</Link> Our international summits convene leading experts, innovators, and decision-makers shaping the next generation of food systems.
-The Future FoodTech Conference brings together pioneers in food technology, alternative proteins, precision fermentation, cellular agriculture, sustainable nutrition, food processing, packaging innovation, and digital food systems. This global forum addresses the critical challenges and transformative opportunities redefining how the world produces, processes, distributes, and consumes food.{" "}
+             transition-colors duration-300">Future FoodTech Conference.</Link>
+              Our international summits convene leading experts, innovators, and decision-makers shaping the next generation of food systems.
+  <Link to="/event_partners"  className="
+             hover:text-accent hover:decoration-accent
+             transition-colors duration-300">The Future FoodTech Conference</Link> brings together pioneers in food technology, alternative proteins, precision fermentation, cellular agriculture, sustainable nutrition, food processing, packaging innovation, and digital food systems. This global forum addresses the critical challenges and transformative opportunities redefining how the world produces, processes, distributes, and consumes food.{" "}
           <Link
             className="text-accent font-bold"
             target="_blank"

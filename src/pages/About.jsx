@@ -26,12 +26,15 @@ const data = {
     description: [
       <>
   
-The World Future FoodTech Conference, organized by Helix Conferences, is a distinguished international forum dedicated to advancing cutting-edge food technologies and sustainable food system solutions that support nutrition security, environmental stewardship, and economic resilience.
-     The conference is designed to facilitate high-level knowledge exchange, cross-sector collaboration, and evidence-based dialogue that accelerates the commercialization and adoption of future food innovations. Key focus areas include alternative proteins, cellular agriculture, precision fermentation, sustainable ingredients, food biotechnology, smart processing, food safety, digitalization, and climate-resilient food systems.
-         {/* <Link to="/"   className="
+The <Link to="/foodtech-orators"   className="
              hover:text-accent hover:decoration-accent
              transition-colors duration-300">
-        agri-biological innovations.</Link> */}
+       World Future FoodTech Conference,</Link>  organized by Helix Conferences, is a distinguished international forum dedicated to advancing cutting-edge food technologies and sustainable food system solutions that support nutrition security, environmental stewardship, and economic resilience.
+     The conference is designed to facilitate high-level knowledge exchange, cross-sector collaboration, and evidence-based dialogue that accelerates the commercialization and adoption of future food innovations. Key focus areas include alternative proteins, cellular agriculture, precision fermentation, sustainable ingredients, <Link to="/foodtech-orators"   className="
+             hover:text-accent hover:decoration-accent
+             transition-colors duration-300">
+food biotechnology</Link>, smart processing, food safety, digitalization, and climate-resilient food systems.
+         
         Through keynote addresses, plenary sessions, expert-led panels, technical workshops, and research-driven presentations, participants gain strategic insights into emerging technologies, evolving consumer trends, regulatory landscapes, and scalable business models shaping the future of food.
       </>,
       <>

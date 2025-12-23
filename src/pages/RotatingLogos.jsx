@@ -29,14 +29,14 @@ export const tracks = [
     title: "Food Processing Technologies (HPP, PEF, Ultrasound, Ohmic)",
     description: (
       <>
-        Explore transformative paradigms in regenerative agriculture that restore soil health, enhance biodiversity, and strengthen climate resilience. This track examines innovative practices, policy frameworks, and technologies empowering farmers to regenerate ecosystems, boost productivity, and build sustainable food systems while delivering economic, environmental, and social value for future-ready{" "}
+This track explores advanced food processing technologies including High Pressure Processing (HPP), Pulsed Electric Fields (PEF), Ultrasound, and Ohmic Heating. It highlights their role in improving food safety, extending shelf life, preserving nutrients, enhancing quality, and enabling sustainable, energy-efficient food manufacturing practices.{" "}
         <Link
           to="/executive-panel-members/"
           className="
              hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-        global agriculture systems worldwide.
+       
         </Link>
    
       </>
@@ -48,15 +48,15 @@ export const tracks = [
     title: "Food Engineering",
     description: (
       <>
-        This track explores the critical interactions between{" "}
+        Examines the principles and applications of food engineering in modern food systems. Topics include process design, heat and mass transfer, equipment innovation, modeling, automation, and scale-up strategies that enhance efficiency, product quality, safety, sustainability, and industrial performance across{" "}
         <Link
           to="/"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-          carbon, soil microbes, and nutrient cycling.
+         food manufacturing sectors.
         </Link>{" "}
-       Discover how microbial communities drive carbon sequestration, improve soil fertility, and optimize nutrient availability, enabling resilient agroecosystems, reduced emissions, and regenerative practices that enhance productivity while supporting long-term ecosystem health and climate-positive agriculture.
+       
       </>
     ),
   },
@@ -66,14 +66,15 @@ export const tracks = [
     title: "Thermal & Non-Thermal Preservation Methods",
     description: (
       <>
-      This track delves intoThis track delves into{" "}
+     Thermal & Non-Thermal Preservation Methods
+This track covers thermal and non-thermal preservation methods used to ensure food safety and quality. It addresses conventional heat treatments alongside emerging technologies that extend shelf life, inactivate microorganisms, retain nutritional value, and support clean-label, sustainable{" "}
         <Link
-          to="/" 
+          to="/foodtech-event-schedule" 
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-       agroecology
-        </Link> as a science and practice integrating ecology, culture, and farming systems. It highlights diversified cropping, local knowledge, and resilient landscapes that enhance biodiversity, soil health, and livelihoods while promoting sustainable, climate-adaptive, and socially inclusive agricultural systems.
+      food preservation solutions.
+        </Link> 
       </>
     ),
   },
@@ -83,15 +84,15 @@ export const tracks = [
     title: "Food Biotechnology - Enzymes & Fermentation",
     description: (
       <>
-        {" "}
+      This track explores food   {" "}
         <Link
-          to="/foodtech-orators"
+          to="/venue"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-     Biodiversity 
+   biotechnology 
         </Link>{" "}
-        examines the role of biodiversity in regenerative agriculture, focusing on species-rich farms, habitat restoration, and ecosystem services. Learn how biodiversity enhances resilience, productivity, and climate adaptation while supporting pollinators, soil life, and balanced food systems across agricultural landscapes.
+with a focus on enzymes and fermentation. It highlights their role in improving processing efficiency, flavor development, nutritional enhancement, functional foods, shelf-life extension, and the production of innovative, sustainable, and value-added food products.
       </>
     ),
   },
@@ -101,15 +102,15 @@ export const tracks = [
     title: "Probiotics & Functional Foods Innovation",
     description: (
       <>
-     This track focuses on{" "}
-        <Link
+    This track highlights innovations in probiotics and functional foods, focusing on formulation, delivery systems, stability, and health benefits. It explores science-driven approaches to gut health, immunity, personalized nutrition, regulatory trends, and the development of next-generation functional products for global markets.{" "}
+        {/* <Link
           to="/foodtech-event-schedule"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-        precision agriculture 
-        </Link>{" "}
-       as a driver of regenerative farming. It highlights smart sensors, AI, drones, and decision tools that optimize resource use, rebuild soil health, cut emissions, and enhance productivity while supporting adaptive, climate-resilient farm management systems.
+     
+        </Link>{" "} */}
+   
       </>
     ),
   },
@@ -119,14 +120,14 @@ export const tracks = [
     title: "Alternative Proteins: Plant-Based, Cultured & Fermentation-Derived",
     description: (
       <>
-     Examines advanced tools for monitoring soil health and crop performance. It highlights real-time insights, predictive analytics, and spatial intelligence that enable precision decisions, optimize inputs, enhance resilience, and accelerate regenerative outcomes across diverse agricultural landscapes.
-        {/* <Link
-          to="/foodtech-event-schedule"
+Explores alternative protein innovations including plant-based, cultured, and fermentation-derived sources. It covers processing technologies, nutrition, scalability, sensory optimization, sustainability, regulatory challenges, and market adoption shaping the future of protein for resilient 
+        <Link
+          to="/contact"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-      
-        </Link>{" "} */}
+      global food systems.
+        </Link>{" "}
      
       </>
     ),
@@ -137,7 +138,7 @@ export const tracks = [
     title: "Nutraceuticals & Bioactive Compounds",
     description: (
       <>
-This track explores how IoT devices and advanced sensor networks enable regenerative farming. Learn how real-time soil, water, crop, and climate data drive smarter decisions, improve soil health, optimize resources, reduce inputs, and support resilient, sustainable agricultural systems at scale.{" "}
+This track focuses on nutraceuticals and bioactive compounds, covering sources, extraction, formulation, and efficacy. It explores their role in disease prevention, wellness, functional food development, regulatory considerations, and innovative delivery systems supporting health-driven consumer demand.{" "}
         <Link
           to="/foodtech-orators" 
           className="hover:text-accent hover:decoration-accent
@@ -154,15 +155,15 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "Food Safety Management",
     description: (
       <>
-       Examines how{" "}
+       This track addresses{" "}
         <Link
-          to="/contact"
+          to="/event_partners"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-        robotics and automation
+     food safety management systems 
         </Link>{" "}
-        are transforming low-impact farming. Discover autonomous machinery, precision robotics, and AI-driven systems that reduce soil compaction, minimize chemical use, lower labor intensity, and improve efficiency while supporting environmentally responsible and regenerative agricultural practices.
+       ensuring compliance and consumer protection. Topics include hazard analysis, risk assessment, regulatory standards, traceability, quality assurance, digital monitoring, and best practices to prevent contamination, ensure product integrity, and maintain safety across the food supply chain.practices.
       </>
     ),
   },
@@ -172,15 +173,15 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "Food Quality Assurance & Shelf-Life Modeling",
     description: (
       <>
-       This track focuses on{" "}
+      This track focuses on{" "}
         <Link
-          to="/venue"
+          to="/foodtech-orators"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-        carbon sequestration
+         food quality assurance and shelf-life modeling
         </Link>{" "}
-      strategies in agriculture. Explore soil-based solutions, regenerative practices, measurement technologies, and policy frameworks that capture and store carbon, enhance soil fertility, reduce emissions, and create verifiable climate benefits while improving long-term farm productivity and resilience.
+     strategies. It covers quality control systems, predictive modeling, packaging interactions, storage conditions, sensory evaluation, and data-driven approaches to optimize product stability, ensure compliance, reduce waste, and extend shelf life in food products.
       </>
     ),
   },
@@ -190,15 +191,15 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "Standards & Global Regulatory Compliance (FSSAI, FDA, EFSA)",
     description: (
       <>
-      This track highlights MRV tools for climate-smart agriculture. Explore methods to measure, report, and verify emissions and outcomes using digital platforms, remote sensing, and data analytics—enabling transparency, credible carbon accounting, informed decision-making, and scalable adoption of sustainable farming practices.{" "}
-        {/* <Link
+ This track focuses on{" "}
+        <Link
           to="https://helixconferences.com/buy-a-ticket"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-       
-        </Link>{" "} */}
- 
+       standards and global regulatory compliance 
+        </Link>{" "}
+ across food systems. It covers frameworks and guidelines from FSSAI, FDA, and EFSA, addressing food safety, labeling, approvals, risk assessment, documentation, and strategies for navigating international regulatory requirements and market access.
       </>
     ),
   },
@@ -208,16 +209,16 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "Food Fraud Detection & Analytical Technologies",
     description: (
       <>
-        {" "}
-        {/* <Link
-          to="/"
+       Examines {" "}
+        <Link
+          to="/about-foodtech-conclave"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-          Soil & Plant Microbiomes
-        </Link>  */}
-      Explores biochar, composting, and biological amendments as tools for regenerative agriculture. Learn how these inputs improve soil structure, enhance microbial activity, increase nutrient availability, sequester carbon, and reduce reliance on synthetic fertilizers while boosting long-term farm productivity.
+        food fraud detection and advanced analytical technologies 
+        </Link> used to ensure authenticity and integrity. It covers rapid testing, spectroscopy, chromatography, DNA-based methods, traceability tools, and data analytics to detect adulteration, verify origin, protect brands, and strengthen consumer trust.
       </>
+
     ),
   },
 
@@ -226,14 +227,14 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "Food Processing & Green Technologies",
     description: (
       <>
-   This track focuses on {" "}
+ This track explores {" "}
         <Link
-          to="/foodtech-conference-tracks/" 
+          to="/event_partners" 
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-      micro-catchments
-        </Link>{" "}  drip irrigation optimization, and hydrology mapping for efficient water use. Discover techniques and digital tools that improve water capture, distribution, and monitoring, reduce losses, enhance crop resilience, and support sustainable, climate-adaptive farming systems.
+    food processing innovations aligned with green technologies.
+        </Link>{" "}   It focuses on energy-efficient processes, waste valorization, water conservation, clean-label solutions, renewable inputs, and sustainable manufacturing strategies that reduce environmental impact while maintaining food quality, safety, and economic viability.
       
       </>
     ),
@@ -244,14 +245,15 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "Food Waste Reduction & Circular Food Systems",
     description: (
       <>
-  Explores{" "}
-        <Link
+  This track addresses food waste reduction and circular food systems. It explores prevention strategies, by-product valorization, smart packaging, supply chain optimization, and policy frameworks that promote resource efficiency, sustainability, and the transition toward resilient, low-waste food ecosystems.{" "}
+        {/* <Link
           to="https://helixconferences.com/buy-a-ticket"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
        plant–microbiome engineering
-        </Link> to enhance crop performance and resilience. Learn how beneficial microbes, root interactions, and biological innovations improve nutrient uptake, stress tolerance, disease resistance, and soil health—unlocking new pathways for sustainable and regenerative agriculture.
+        </Link>  */}
+
         
       </>
     ),
@@ -262,14 +264,14 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "Smart, Biodegradable & Edible Packaging",
     description: (
       <>
-    This highlights {" "}
+    Explores smart, biodegradable, and edible packaging innovations. It covers active and intelligent packaging, sustainable materials, biodegradability, food–package interactions, shelf-life extension, safety, and regulatory aspects driving eco-friendly packaging solutions for the  {" "}
         <Link
           to="/foodtech-conference-tracks/" 
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-         biofertilisers, biostimulants, and mycorrhizal
-        </Link> innovations for sustainable farming. Explore how these natural inputs enhance nutrient uptake, stimulate plant growth, improve soil health, boost crop resilience, and reduce dependency on chemical fertilizers, driving regenerative and eco-friendly agricultural practices.
+        food industry.
+        </Link> 
         
       </>
     ),
@@ -280,15 +282,14 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "Climate-Smart Food Systems & Life Cycle Assessment (LCA)",
     description: (
       <>
-        {" "}
-        {/* <Link
-          to="https://helixconferences.com/buy-a-ticket"
+       This track focuses on {" "}
+        <Link
+          to="/"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-          Foodborne Microbial 
-        </Link> */}
-       This track focuses on regenerative pest management strategies that balance crop protection with ecosystem health. Learn how integrated approaches, biological controls, habitat management, and precision monitoring reduce chemical use, enhance biodiversity, and promote resilient, sustainable farming systems.
+        climate-smart food systems and Life Cycle Assessment 
+        </Link> (LCA). It examines carbon footprinting, resource efficiency, sustainable sourcing, climate resilience, impact assessment tools, and data-driven strategies to reduce environmental impacts across food production, processing, and supply chains.
      
       </>
     ),
@@ -299,16 +300,15 @@ This track explores how IoT devices and advanced sensor networks enable regenera
     title: "IoT, Automation & Smart Manufacturing",
     description: (
       <>
-Examines {" "}
-        <Link
+This track explores IoT, automation, and smart manufacturing in the food industry. It covers connected devices, sensors, robotics, real-time monitoring, data analytics, and process optimization to enhance efficiency, quality, traceability, and sustainability in modern food production systems. {" "}
+        {/* <Link
           to="/about-foodtech-conclave" 
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
           regenerative horticulture, agroforestry, and polyculture systems. 
-        </Link>
- Discover how diverse planting strategies, tree–crop integration, and multi-species cultivation enhance soil health, biodiversity, and ecosystem resilience while increasing productivity and promoting sustainable, climate-smart agricultural landscapes.
-      </>
+        </Link> */}
+</>
     ),
   },
 
@@ -317,15 +317,15 @@ Examines {" "}
     title: "Data Analytics for Food Innovation",
     description: (
       <>
-      {" "}
-        {/* <Link
-          to="/foodtech-orators"
+     This track focuses on {" "}
+        <Link
+          to="https://helixconferences.com/buy-a-ticket"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-          Fermented Foods – Health Benefits & Innovation
-        </Link>  */}
-      This track examines livestock integration, holistic grazing, and manure circularity in regenerative farming. Learn how strategic grazing, nutrient recycling, and livestock–crop synergy enhance soil fertility, boost pasture productivity, reduce waste, and support sustainable, climate-resilient agricultural systems.
+          data analytics for food innovation,
+        </Link> 
+     covering big data, AI, machine learning, predictive modeling, and consumer insights. It highlights how data-driven approaches optimize product development, quality, supply chains, personalization, and sustainability in the evolving food industry.
       </>
     ),
   },
@@ -344,7 +344,7 @@ Examines {" "}
         >
           microbiome research 
         </Link>  */}
-This track highlights waste-to-value innovations in farming. Explore technologies and practices that convert agricultural residues, by-products, and organic waste into valuable resources like bioenergy, compost, and bio-based inputs—reducing waste, enhancing sustainability, and supporting circular, regenerative farm systems.
+This track explores digital twins and predictive modeling in food processing. It covers virtual simulations, real-time monitoring, process optimization, quality control, and decision-support systems that enhance efficiency, reduce waste, ensure safety, and drive innovation in modern food manufacturing.
       </>
     ),
   },
@@ -355,14 +355,14 @@ This track highlights waste-to-value innovations in farming. Explore technologie
     title: "Precision Fermentation",
     description: (
       <>
- Explores    {" "}
+ This track focuses on   {" "}
         <Link
-          to="https://helixconferences.com/buy-a-ticket"
+          to="/about-foodtech-conclave"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
-   regenerative supply chains and market incentives
-        </Link>  Discover strategies to connect farmers with sustainable markets, leverage carbon credits, promote eco-friendly certifications, and create economic models that reward regenerative practices while enhancing transparency, resilience, and long-term value across the agricultural ecosystem.
+  precision fermentation,
+        </Link>  highlighting advanced techniques for producing proteins, enzymes, and bioactive compounds with high efficiency and consistency. It explores applications in food innovation, sustainability, scalability, regulatory considerations, and the development of next-generation functional and alternative food products.
       </>
     ),
   },
@@ -371,14 +371,14 @@ This track highlights waste-to-value innovations in farming. Explore technologie
     title: "Cold Plasma Preservation",
     description: (
       <>
-      This track focuses on {" "}
-        <Link
+      Explores cold plasma preservation as an emerging non-thermal food processing technology. It covers microbial inactivation, shelf-life extension, nutrient retention, safety, scalability, and applications across fresh, minimally processed, and packaged foods, promoting innovative and sustainable preservation solutions. {" "}
+        {/* <Link
           to="/foodtech-conference-tracks/" 
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
       certification frameworks for regenerative farming.
-        </Link>{" "} Explore standards, protocols, and verification methods that validate sustainable practices, ensure transparency, enhance market credibility, and incentivize farmers to adopt environmentally responsible, soil-friendly, and climate-smart agricultural approaches.
+        </Link>{" "}  */}
        
       </>
     ),
