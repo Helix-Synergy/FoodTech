@@ -31,7 +31,7 @@ const Footer = () => {
           />
           <br />
         <p style={{}}>
-   “Advancing Research into Regenerative Action”
+   “Nutrition & precision food”
         </p>
        
         </div>
