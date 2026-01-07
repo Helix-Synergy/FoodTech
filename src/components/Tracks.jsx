@@ -8,7 +8,7 @@ const TracksSection = () => {
   return (
     <div className="py-6 px-4 md:py-12 md:px-6 bg-one/20 h-auto">
       <h2 className="text-2xl md:text-3xl font-bold text-center mb-6 md:mb-8">
-FOODTECH- Tracks
+FOODTECH-Tracks
       </h2>
 
       {/* Responsive Grid for Track Cards */}

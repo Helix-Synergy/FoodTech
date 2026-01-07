@@ -36,7 +36,7 @@ loading="lazy"
         Welcome to the premier global platform for the  
         <Link to="https://helixconferences.com/buy-a-ticket"  className="
              hover:text-accent hover:decoration-accent
-             transition-colors duration-300">Future FoodTech Conference.</Link>
+             transition-colors duration-300"> Future FoodTech Conference.</Link>
               Our international summits convene leading experts, innovators, and decision-makers shaping the next generation of food systems.
   <Link to="/event_partners"  className="
              hover:text-accent hover:decoration-accent
