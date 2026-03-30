@@ -20,7 +20,7 @@ FOODTECH-Tracks
           >
             <img
               src={icon}
-              alt=""
+              alt="track-icon"
               className="h-8 w-8 object-contain shrink-0"
               loading="lazy"
             />

@@ -10,22 +10,22 @@ const faqLinks = {
 
 export const faqData = [
   {
-    question: "What is FOODTECH-2026?",
+    question: "What is FOODTECH-2027?",
     answer:
-      "FOODTECH-2026, officially titled the “Future FoodTech Expo”, is a premier international exhibition and conference organized by Helix Conferences. It brings together food technology innovators, startups, researchers, manufacturers, investors, and policy makers to explore advancements in food processing, alternative proteins, smart packaging, food safety, sustainability, and next-generation food systems.",
+      "FOODTECH-2027, officially titled the “Future FoodTech Expo”, is a premier international exhibition and conference organized by Helix Conferences. It brings together food technology innovators, startups, researchers, manufacturers, investors, and policy makers to explore advancements in food processing, alternative proteins, smart packaging, food safety, sustainability, and next-generation food systems.",
   },
   {
-    question: "When and where will FOODTECH-2026 take place?",
+    question: "When and where will FOODTECH-2027 take place?",
     answer:
-      "FOODTECH-2026 will take place in 2026. The exact dates and venue will be announced soon.",
+      "FOODTECH-2027 will take place in 2027. The exact dates and venue will be announced soon.",
   },
   {
-    question: "What are the highlights of FOODTECH-2026?",
+    question: "What are the highlights of FOODTECH-2027?",
     answer:
       "Keynote addresses, technology showcases, live demonstrations, expert-led sessions, startup pitch forums, panel discussions, and global networking opportunities across the food technology ecosystem.",
   },
   {
-    question: "What expo tracks are featured at FOODTECH-2026?",
+    question: "What expo tracks are featured at FOODTECH-2027?",
     answer: (
       <>
         You can explore the full list of tracks here:{" "}
@@ -35,7 +35,7 @@ export const faqData = [
           rel="noopener noreferrer"
           className="text-blue-600 underline"
         >
-          FOODTECH-2026 Tracks
+          FOODTECH-2027 Tracks
         </a>
         .
       </>
@@ -55,7 +55,7 @@ export const faqData = [
     ),
   },
   {
-    question: "How can I submit a proposal or presentation for FOODTECH-2026?",
+    question: "How can I submit a proposal or presentation for FOODTECH-2027?",
     answer: (
       <>
         You can submit your proposal{" "}
@@ -87,14 +87,14 @@ export const faqData = [
       "Presentation slots typically range from 15–20 minutes, including Q&A. Final guidelines will be shared after proposal acceptance.",
   },
   {
-    question: "Who will be attending FOODTECH-2026?",
+    question: "Who will be attending FOODTECH-2027?",
     answer:
       "Food technology professionals, product developers, food manufacturers, researchers, startups, investors, sustainability leaders, regulators, and academicians from around the world.",
   },
   {
     question: "How many people usually attend the expo?",
     answer:
-      "FOODTECH-2026 is expected to welcome 150+ international attendees, including speakers, exhibitors, delegates, startups, and sponsors.",
+      "FOODTECH-2027 is expected to welcome 150+ international attendees, including speakers, exhibitors, delegates, startups, and sponsors.",
   },
   {
     question: "Can I register for multiple speaking or demo sessions?",

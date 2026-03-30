@@ -10,7 +10,7 @@ const AboutUs = () => {
       {/* <div className="flex justify-center">
         <img
           src={about_img}
-          alt="Dental Conference 2026"
+          alt="Dental Conference 2027"
           loading="lazy"
           className="h-[50%] md:max-h-[50%] w-auto md:w-[80vh] md:mx-16 rounded-2xl object-cover"
         />
@@ -32,7 +32,7 @@ loading="lazy"
           <span className="text-one">Advancing Global Leadership  </span>{" "}
        in Future FoodTech
         </h1>
-        <p className="text-base my-2">
+        <p className="text-base my-2 text-justify">
         Welcome to the premier global platform for the  
         <Link to="https://helixconferences.com/buy-a-ticket"  className="
              hover:text-accent hover:decoration-accent
