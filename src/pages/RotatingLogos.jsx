@@ -2,26 +2,26 @@ import React, { useEffect, useState } from "react";
 import { Sparkle } from "lucide-react";
 import { Link } from "react-router-dom";
 // Images for agri
-import FoodProcessing from "../assets/tracks/FOOD processing technologies.jpeg";
-import FoodEngineering from "../assets/tracks/food engineering.jpeg"
-import Thermal  from "../assets/tracks/Thermal & non thermal preservation methods.jpeg";
-import FoodBio from "../assets/tracks/food biotechnology -enzymes &fermentation.jpeg";
-import Probiotics from "../assets/tracks/probiotics &functional food innovation.jpeg";
-import Alternative from "../assets/tracks/Alternative proteins plant based cultured&fermentation- derived.jpeg"
-import Nutra from "../assets/tracks/Nutraceuticals& bioactive compounds.png";
-import FoodSafety from "../assets/tracks/food safety management.jpeg"
-import FoodQuality from "../assets/tracks/food quality assurance& shelf line modeling.jpeg";
-import Standards from "../assets/tracks/standards &global regulartory compliances.jpeg"
-import FoodFraud from "../assets/tracks/food fraud dection &analytical technology.jpeg";
-import FoodProcessing1 from "../assets/tracks/food processing &green technologies.jpeg"
-import FoodWaste from "../assets/tracks/food waste reduction &circular food system.jpeg";
-import Smart from "../assets/tracks/smart biodergradable &edible packaging.jpeg"
-import climate from "../assets/tracks/climate smartfood system&life cycle assessment.jpeg";
-import iot1 from "../assets/tracks/IOT automation &smart manufacturing.jpeg"
-import DataAnalystic from "../assets/tracks/Data analytics for food innovation.jpeg"
-import DigitalTwins from "../assets/tracks/Digital twins predictive modeling in food processing.png";
-import Precison1 from "../assets/tracks/precision fermentation.jpeg"
-import Cold from "../assets/tracks/cold plasma preservation.jpeg"
+import FoodProcessing from "../assets/tracks/FOOD processing technologies.webp";
+import FoodEngineering from "../assets/tracks/food engineering.webp"
+import Thermal  from "../assets/tracks/Thermal & non thermal preservation methods.webp";
+import FoodBio from "../assets/tracks/food biotechnology -enzymes &fermentation.webp";
+import Probiotics from "../assets/tracks/probiotics &functional food innovation.webp";
+import Alternative from "../assets/tracks/Alternative proteins plant based cultured&fermentation- derived.webp"
+import Nutra from "../assets/tracks/Nutraceuticals& bioactive compounds.webp";
+import FoodSafety from "../assets/tracks/food safety management.webp"
+import FoodQuality from "../assets/tracks/food quality assurance& shelf line modeling.webp";
+import Standards from "../assets/tracks/standards &global regulartory compliances.webp"
+import FoodFraud from "../assets/tracks/food fraud dection &analytical technology.webp";
+import FoodProcessing1 from "../assets/tracks/food processing &green technologies.webp"
+import FoodWaste from "../assets/tracks/food waste reduction &circular food system.webp";
+import Smart from "../assets/tracks/smart biodergradable &edible packaging.webp"
+import climate from "../assets/tracks/climate smartfood system&life cycle assessment.webp";
+import iot1 from "../assets/tracks/IOT automation &smart manufacturing.webp"
+import DataAnalystic from "../assets/tracks/Data analytics for food innovation.webp"
+import DigitalTwins from "../assets/tracks/Digital twins predictive modeling in food processing.webp";
+import Precison1 from "../assets/tracks/precision fermentation.webp"
+import Cold from "../assets/tracks/cold plasma preservation.webp"
 
 export const tracks = [
   {

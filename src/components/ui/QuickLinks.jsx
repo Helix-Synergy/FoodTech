@@ -8,13 +8,13 @@ const links = [
     id: 'mobile',
     icon: Phone,
     label: 'Call Us',
-    path: 'tel:+13052398055'
+    path: 'tel:+17036516096'
   },
   {
     id: 'whatsapp',
     icon: WhatsAppIcon,
     label: 'WhatsApp',
-    link: 'https://api.whatsapp.com/send/?phone=13052398055&text=Hello&type=phone_number&app_absent=0'
+    link: 'https://api.whatsapp.com/send/?phone=17036516096&text=Hello&type=phone_number&app_absent=0'
   },
   {
     id: 'abstract-submission',
@@ -26,13 +26,13 @@ const links = [
     id: 'brochure-download',
     icon: Download,
     label: 'Brochure download',
-    link: '/Food_Tech.pdf'
+    link: '/brochure-download'
   },
   {
     id: 'event-schedule',
     icon: CalendarCheck,
     label: 'Schedule',
-    link:"/foodtech-event-schedule"
+    link: "/foodtech-event-schedule"
   },
   {
     id: 'faq',
@@ -51,17 +51,18 @@ const QuickLinks = () => {
         const isActive = hoveredId === id;
         const href = path || link;
 
-        const classes = `flex items-center bg-white shadow-md rounded-l-full overflow-hidden transform transition-all duration-300 ${
-          isActive ? 'translate-x-0' : 'translate-x-40'
-        } ${id === 'mobile' ? 'animate-pulseShadow' : ''}`;
+        const classes = `flex items-center bg-white shadow-md rounded-l-full overflow-hidden transform transition-all duration-300 ${isActive ? 'translate-x-0' : 'translate-x-40'
+          } ${id === 'mobile' ? 'animate-pulseShadow' : ''}`;
 
-        // ✅ Only brochure uses <a>
-        if (id === 'brochure-download') {
+        const isExternal = href.startsWith('http') || href.startsWith('tel:');
+
+        if (isExternal) {
           return (
             <a
               key={id}
               href={href}
-              download
+              target={href.startsWith('http') ? '_blank' : undefined}
+              rel={href.startsWith('http') ? 'noopener noreferrer' : undefined}
               onMouseEnter={() => setHoveredId(id)}
               onMouseLeave={() => setHoveredId(null)}
               className={classes}
@@ -76,7 +77,7 @@ const QuickLinks = () => {
           );
         }
 
-        // ✅ All others remain React routes
+        // ✅ Internal links use React Router
         return (
           <Link
             key={id}
